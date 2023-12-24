@@ -1,5 +1,5 @@
 # Roland SC-55 SoundFont
-Roland SC-55 Wavetable SoundFont (SF2 format).
+Roland SC-55 Wavetable in SF2 format.
 
 <https://github.com/3119369616/Roland_SC-55_SoundFont/releases/download/v1.0.0/Roland_SC-55.sf2>
 
